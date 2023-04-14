@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ViaLivre Recife</string>
+    <string name="email">email</string>
+    <string name="user">Usuário</string>
+    <string name="logo">ViaLivre Recife</string>
+    <string name="senha">Senha</string>
+    <string name="remember">Lembrar-me</string>
+    <string name="login">Entrar</string>
+    <string name="bem_vindo">Bem-vindo,</string>
+    <string name="nome">Nome</string>
+    <string name="bem_vindo1">Bem Vindo:</string>
+    <string name="info_app">Mais informações sobre o aplicativo:</string>
+    <string name="prosseguir">Prosseguir</string>
+    <string name="info_app1">O aplicativo permitirá aos usuários do Recife identificar e reportar defeitos no pavimento das vias de forma simples e rápida. Ao abrir o aplicativo, o usuário poderá ver um mapa interativo da cidade, com as ruas marcadas e uma indicação dos defeitos já reportados. Ao selecionar uma rua, o usuário poderá ver imagens do pavimento e marcar o local do defeito. O aplicativo também permitirá que o usuário inclua uma descrição do defeito e sua gravidade.</string>
+    <string name="info_app2">Ao reportar um defeito, o aplicativo enviará automaticamente as informações para os órgãos competentes, que poderão visualizar as informações em tempo real e planejar ações para reparar o pavimento. O aplicativo também permitirá que os usuários acompanhem o status dos seus reportes e recebam notificações sobre o andamento das ações tomadas pelos órgãos competentes.</string>
+    <string name="info_app3">O objetivo do aplicativo é proporcionar uma ferramenta eficiente para a identificação e resolução dos problemas no pavimento das vias do Recife, melhorando a segurança e a qualidade de vida dos cidadãos.</string>
+</resources>
