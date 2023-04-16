@@ -11,17 +11,16 @@
         android:id="@+id/logo"
         android:layout_width="204dp"
         android:layout_height="133dp"
+        android:layout_marginTop="68dp"
         android:fontFamily="sans-serif-black"
         android:text="@string/logo"
-        android:textSize="48sp"
         android:textAlignment="center"
-        app:layout_constraintBottom_toBottomOf="parent"
+        android:textSize="48sp"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.163"
-        tools:ignore="HardcodedText" />
+        tools:ignore="HardcodedText,TextSizeCheck" />
 
     <EditText
         android:id="@+id/user"
@@ -39,7 +38,7 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintStart_toStartOf="@+id/logo"
         app:layout_constraintTop_toBottomOf="@+id/logo"
-        app:layout_constraintVertical_bias="0.13" />
+        app:layout_constraintVertical_bias="0.119" />
 
     <EditText
         android:id="@+id/senha"
@@ -75,10 +74,11 @@
         android:layout_height="69dp"
         android:layout_marginTop="40dp"
         android:text="@string/login"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/senha"
-        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="@+id/senha"
         app:layout_constraintTop_toBottomOf="@+id/checkBox"
+        app:layout_constraintVertical_bias="0.132"
         tools:ignore="MissingConstraints" />
 
 
