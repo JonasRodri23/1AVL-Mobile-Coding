@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ViaLivre Recife</string>
+    <string name="app_name">Freeway Recife</string>
     <string name="email">email</string>
-    <string name="user">Usuário</string>
-    <string name="logo">ViaLivre Recife</string>
-    <string name="senha">Senha</string>
-    <string name="remember">Lembrar-me</string>
-    <string name="login">Entrar</string>
-    <string name="bem_vindo">Bem-vindo,</string>
-    <string name="nome">Nome</string>
-    <string name="bem_vindo1">Bem Vindo:</string>
-    <string name="info_app">Mais informações sobre o aplicativo:</string>
-    <string name="prosseguir">Saiba mais</string>
-    <string name="info_app1">O aplicativo permitirá aos usuários do Recife identificar e reportar defeitos no pavimento das vias de forma simples e rápida. Ao abrir o aplicativo, o usuário poderá ver um mapa interativo da cidade, com as ruas marcadas e uma indicação dos defeitos já reportados. Ao selecionar uma rua, o usuário poderá ver imagens do pavimento e marcar o local do defeito. O aplicativo também permitirá que o usuário inclua uma descrição do defeito e sua gravidade.</string>
-    <string name="info_app2">Ao reportar um defeito, o aplicativo enviará automaticamente as informações para os órgãos competentes, que poderão visualizar as informações em tempo real e planejar ações para reparar o pavimento. O aplicativo também permitirá que os usuários acompanhem o status dos seus reportes e recebam notificações sobre o andamento das ações tomadas pelos órgãos competentes.</string>
-    <string name="info_app3">O objetivo do aplicativo é proporcionar uma ferramenta eficiente para a identificação e resolução dos problemas no pavimento das vias do Recife, melhorando a segurança e a qualidade de vida dos cidadãos.</string>
+    <string name="user">User</string>
+    <string name="logo">Freeway Recife</string>
+    <string name="senha">Password</string>
+    <string name="remember">Remember me</string>
+    <string name="login">To enter</string>
+    <string name="bem_vindo">Welcome,</string>
+    <string name="nome">Name</string>
+    <string name="bem_vindo1">Welcome:</string>
+    <string name="info_app">More information about the app:</string>
+    <string name="prosseguir">Know more</string>
+    <string name="info_app1">The application will allow users in Recife to identify and report road pavement defects in a simple and quick way. When opening the application, the user will be able to see an interactive map of the city, with the streets marked and an indication of the defects already reported. When selecting a street, the user will be able to see images of the pavement and mark the location of the defect. The application will also allow the user to include a description of the defect and its severity.</string>
+    <string name="info_app2">When reporting a defect, the application will automatically send the information to the competent bodies, who will be able to view the information in real time and plan actions to repair the pavement. The application will also allow users to track the status of their reports and receive notifications about the progress of actions taken by the competent bodies.</string>
+    <string name="info_app3">The objective of the application is to provide an efficient tool for identifying and solving problems in the pavement of Recife's roads, improving the safety and quality of life of citizens.</string>
 </resources>
