@@ -1,8 +1,8 @@
 package com.example.vialivrerecife
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.example.vialivrerecife.databinding.ActivitySegundaBinding
 
 class SegundaActivity : AppCompatActivity() {
@@ -17,6 +17,8 @@ class SegundaActivity : AppCompatActivity() {
         recuperaDados()
 
         binding.btnProximo.setOnClickListener { prosseguir() }
+
+        binding.btnConsultarAlertas.setOnClickListener{ verAlertas() }
     }
 
     private fun recuperaDados() {
@@ -30,5 +32,11 @@ class SegundaActivity : AppCompatActivity() {
         val intent = Intent(this, TerceiraActivity::class.java)
 
         startActivity(intent)
+    }
+
+    private fun verAlertas() {
+        val intent2 = Intent(this, ListaAlertasActivity::class.java)
+
+        startActivity(intent2)
     }
 }

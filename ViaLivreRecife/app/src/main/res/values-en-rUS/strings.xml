@@ -10,9 +10,17 @@
     <string name="bem_vindo">Welcome,</string>
     <string name="nome">Name</string>
     <string name="bem_vindo1">Welcome:</string>
-    <string name="info_app">More information about the app:</string>
-    <string name="prosseguir">Know more</string>
-    <string name="info_app1">The application will allow users in Recife to identify and report road pavement defects in a simple and quick way. When opening the application, the user will be able to see an interactive map of the city, with the streets marked and an indication of the defects already reported. When selecting a street, the user will be able to see images of the pavement and mark the location of the defect. The application will also allow the user to include a description of the defect and its severity.</string>
-    <string name="info_app2">When reporting a defect, the application will automatically send the information to the competent bodies, who will be able to view the information in real time and plan actions to repair the pavement. The application will also allow users to track the status of their reports and receive notifications about the progress of actions taken by the competent bodies.</string>
-    <string name="info_app3">The objective of the application is to provide an efficient tool for identifying and solving problems in the pavement of Recife\' s roads, improving the safety and quality of life of citizens.</string>
+    <string name="info_app">See some alerts already made:</string>
+    <string name="prosseguir">Make alert</string>
+    <string name="fa_a_um_alerta">Raise an alert:</string>
+    <string name="t_tulo">Title</string>
+    <string name="descri_o_do_alerta">alert description</string>
+    <string name="data_do_alerta">alert date</string>
+    <string name="autor">Author</string>
+    <string name="publicar_alerta">post alert</string>
+    <string name="verAlertas">view alerts</string>
+    <string name="facaAlerta">Raise an alert:</string>
+    <string name="emp_name">Emp Name</string>
+    <string name="loading_data">Loading Data.....</string>
+    <string name="emp_titulo">Emp Titulo</string>
 </resources>

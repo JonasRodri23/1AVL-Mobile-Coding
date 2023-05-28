@@ -4,6 +4,8 @@ import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.example.vialivrerecife.databinding.ActivityMainBinding
+import com.google.firebase.database.ktx.database
+import com.google.firebase.ktx.Firebase
 
 class MainActivity : AppCompatActivity() {
 
@@ -23,6 +25,11 @@ class MainActivity : AppCompatActivity() {
         val intent = Intent(this, SegundaActivity::class.java)
         intent.putExtra("nome", nome)
         startActivity(intent)
+
+        val database = Firebase.database
+        val myRef = database.getReference("teste")
+
+        myRef.setValue("Hello, World!")
     }
 }
 
